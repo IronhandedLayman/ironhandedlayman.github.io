@@ -9,11 +9,11 @@
 title: Ironhanded Layman
 email: nathaniel.dean@alumni.purdue.edu
 description: > # this means to ignore newlines until "baseurl:"
-  This is a base of operations to the projects of Ironhanded Layman. Multiple projects remain cloaked. Experimentations continue daily.
+  The base of operations for Ironhanded Layman. Multiple projects remain cloaked. Experimentations continue daily.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://ironhandedlayman.github.io" # the base hostname & protocol for your site
 twitter_username: leadhyena
-github_username:  ironhandedlayman
+github_username:  IronhandedLayman
 
 # Build settings
 markdown: kramdown
