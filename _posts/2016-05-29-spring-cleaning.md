@@ -6,6 +6,7 @@ categories: seasonal summer cleanup
 ---
 
 It's a little late for spring cleaning, since it's almost summer. However it needs to happen, and not only for your physical house, but also your digital house. Ask yourself:
+
 * What packages do I have installed on my machine?
 * Do I know all my editor's commands?
 * Do I have any outstanding tickets on my personal projects?
@@ -17,6 +18,7 @@ It's a little late for spring cleaning, since it's almost summer. However it nee
 * Is my email inbox managable?
 
 Some of the actions I'm taking today to clean up my cruft:
+
 * A dotfiles repository. This is a good one to be able to recover one's console setup, and if I do it correctly, it'll also help in recovering my Windows/MacOS/Xwindows setup as well. There are a number of online tutorials such as [this guide on creating a dotfiles repo](https://www.foraker.com/blog/get-your-dotfiles-under-control)
 * Creating a list of all websites I currently am aware of having an account under. A good place to start is looking at every app I have installed on my phone.
 * Speaking of, reviewing apps on my phone allows me to delete the unused/timewasting/broken apps and reorganize my apps so that my most used apps are on the first page, less common apps either searchable or in folders so that they're easily scanned.
