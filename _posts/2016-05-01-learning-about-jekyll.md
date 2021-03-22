@@ -3,6 +3,7 @@ layout: post
 title:  "Learning about Jekyll"
 date:   2016-05-01 09:42:00 -0400
 categories: jekyll learning
+tags: prehistory
 ---
 This is my first experience with [Jekyll](http://jekyllrb.com/). So far, I've noticed:
 

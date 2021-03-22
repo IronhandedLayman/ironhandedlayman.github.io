@@ -3,6 +3,7 @@ layout: post
 title:  "Spring cleaning"
 date:   2016-05-29 10:08:00 -0400
 categories: seasonal summer cleanup
+tags: prehistory
 ---
 
 It's a little late for spring cleaning, since it's almost summer. However it needs to happen, and not only for your physical house, but also your digital house. Ask yourself:
